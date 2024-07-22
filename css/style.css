@@ -449,8 +449,8 @@ cite img {
 .package-heading {
     color: black;
     font-size: 250%;
-    margin-bottom: 75px;
-    margin-top: 150px;
+    margin-bottom: 50px;
+    margin-top: 70px;
 }
 
 .package-box {
@@ -566,4 +566,10 @@ textarea {
     background-color: rgba(255,255,255,.8);
     width: 100%;
     box-shadow: 0 2px 2px #efefef;
+}
+
+
+.footer-section {
+    background-color: #f4f4f4;
+    margin-top: 20px;
 }
